@@ -3,3 +3,5 @@ datasets
 scikit-learn
 numpy
 tqdm
+wandb
+joblib
